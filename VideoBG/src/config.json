@@ -1,0 +1,20 @@
+{
+    "main": "index.js",
+    "info": {
+        "name": "videoBG",
+        "authors": [{
+            "name": "Super_JK",
+            "discord_id": "282818386348736534",
+            "github_username": "Super-JK"
+        }],
+        "version": "0.1",
+        "description": "Add a video in the background",
+        "github": "https://github.com/Super-JK/BDPlugins/VideoBG",
+        "github_raw": "https://raw.githubusercontent.com/Super-JK/BDPlugins/master/VideoBG/VideoBG.plugin.js"
+
+    },
+    "changelog": [
+        {"title": "New Stuff", "items": ["Initial release"]}
+    ],
+     "defaultConfig": []
+}
